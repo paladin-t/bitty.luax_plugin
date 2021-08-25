@@ -1,0 +1,10 @@
+local a = 0
+for i = 1, 42 do
+	a += 1 -- Extended operator "+=".
+end
+print(a)
+
+for i = 1, 42 do
+	a -= 1 -- Extended operator "-=".
+end
+print(a)

@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "title": "Luax Compiler",
+  "description": "Compile Luax source to Lua.",
+  "author": "Tony",
+  "version": "1.0",
+  "genre": "COMPILER",
+  "url": "https://github.com/paladin-t/bitty.luax_plugin"
+}
